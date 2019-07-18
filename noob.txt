@@ -2,6 +2,7 @@ Rainbow and the unicorn
 
 blue
 red
+purple
 yellow
 unicorn
 orange
